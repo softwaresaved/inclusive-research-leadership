@@ -1,0 +1,9 @@
+# Introduction {.unnumbered}
+
+This the beginning of a set of content for an inclusive leadership workshop. 
+
+Ideas for this curriculum are currently being discussed at an SSI CW22 workshop and we're planning a sprint to develop scenarios that could be used as exercises in a workshop. 
+
+### Feedback welcome! 
+
+This is content that is still coming together and ideas and feedback are welcome! Add issues in [this repo](https://github.com/tracykteal/inclusive-research-leadership) or get in touch with Tracy Teal or Neil Chue Hong. 

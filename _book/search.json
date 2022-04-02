@@ -1,0 +1,86 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Inclusive Research Leadership",
+    "section": "",
+    "text": "These are materials that could be used in an inclusive research leadership workshop.\nThis content is written in Quarto. To learn more about Quarto books visit https://quarto.org/docs/books.\n\n\nResearchers and research software developers have developed experience and expertise in their areas of work. They have spent time learning how to code, analyze data and are experts in their domains. As people become leaders in their field, whether it’s a small group or a large team, they also need to develop leadership and management skills, but often haven’t had the opportunity to learn them, or are self-taught. This lack of knowledge around team leadership negatively impacts the person in the leadership position as well as those in their team. Therefore there is the opportunity for short-format, practical, hands-on training for people in or transitioning to research leadership roles.\nWe know a lot now from research around leadership as to what makes effective leadership, meaning leadership that allows a team to do its best work, both for the individuals on the team, and the team itself. That includes elements of creating psychological safety and providing opportunities for mastery, autonomy and purpose, and centering inclusiveness, accessibility and culturally responsive practices. Overall, what we know makes for effective leadership, is not always how we see leadership practiced. Therefore not only are there not learning opportunities, but what people learn by ‘watching’ are not effective practices.\nWe are developing a course on Inclusive Research Leadership modeled on the The Carpentries 2-day workshop format, which aims to provide participants with opportunities to learn about leadership, based on what we know works, and that values people - both the leader themselves and the people they lead."
+  },
+  {
+    "objectID": "intro.html",
+    "href": "intro.html",
+    "title": "Introduction",
+    "section": "",
+    "text": "Ideas for this curriculum are currently being discussed at an SSI CW22 workshop and we’re planning a sprint to develop scenarios that could be used as exercises in a workshop.\n\nFeedback welcome!\nThis is content that is still coming together and ideas and feedback are welcome! Add issues in this repo or get in touch with Tracy Teal or Neil Chue Hong."
+  },
+  {
+    "objectID": "summary.html",
+    "href": "summary.html",
+    "title": "2  Summary",
+    "section": "",
+    "text": "In summary, this book has no content whatsoever."
+  },
+  {
+    "objectID": "references.html",
+    "href": "references.html",
+    "title": "References",
+    "section": "",
+    "text": "References will be added."
+  },
+  {
+    "objectID": "scenarios.html",
+    "href": "scenarios.html",
+    "title": "Scenarios",
+    "section": "",
+    "text": "For a leadership workshop, the excercises are scenarios, where people can practice going through them, either reading and responding themselves, or practicing with a partner.\nWe’d like to develop scenarios that give workshop participants the chance to practice the things they have just learned in a module. For example, for the ‘Giving and receiving feedback’ module, you would want practice scenarios where you could practice giving feedback to someone and practice receiving difficult feedback.\nLike any skill, only practice helps you get better! These scenarios in a workshop setting give you the space for that practice."
+  },
+  {
+    "objectID": "scenarios.html#scenario-format",
+    "href": "scenarios.html#scenario-format",
+    "title": "Scenarios",
+    "section": "Scenario format",
+    "text": "Scenario format\nEach scenario has its own page. This is an example.\nFor each scenario include:\nSkill: List the skill being practiced\nFormat: Is this an individual, paired or group exercise\nDirections: Are there any particular directions?\nTime:: How much time should participants spend on this exercise? How much on the scenario and how much on the reflection questions?\nScenario: The story of the scenario\nReflection questions: What questions might you ask yourself or others after the scenario?\n\nCreating a new scenario\nTo create a new scenario\n\nClone repo\nCopy the file scenario_example.qmd to scenario_NEWNAME.qmd\nEdit scenario_NEWNAME.qmd (editing instructions)\nAdd the name of the new file to _quarto.yml\nPush or put in a pull request to repo\nYou will see the file now included at URL\n\n\n\nEditing the scenario.qmd files\nThe files for this book are written in Quarto. .qmd files are like R Markdown files. You can edit them in any text editor, or in the RStudio IDE.\nInstructions on how to work with Quarto books locally is here: https://quarto.org/docs/books/"
+  },
+  {
+    "objectID": "scenarios/scenario_example.html",
+    "href": "scenarios/scenario_example.html",
+    "title": "Example Scenario",
+    "section": "",
+    "text": "This is an example scenario. To create a new scenario, copy this file to a new file in this same directory ‘scenarios/’ then fill in your own content in the different sections."
+  },
+  {
+    "objectID": "scenarios/scenario_example.html#scenario-format",
+    "href": "scenarios/scenario_example.html#scenario-format",
+    "title": "2  Scenarios",
+    "section": "2.1 Scenario format",
+    "text": "2.1 Scenario format\nEach scenario has its own page. This is an example.\nFor each scenario include:\nSkill: List the skill being practiced\nFormat: Is this an individual, paired or group exercise\nDirections: Are there any particular directions?\nTime:: How much time should participants spend on this exercise? How much on the scenario and how much on the reflection questions?\nScenario: The story of the scenario\nReflection questions: What questions might you ask yourself or others after the scenario?\n\n2.1.1 Creating a new scenario\nTo create a new scenario\n\nClone repo\nCopy the file scenario_example.qmd to scenario_NEWNAME.qmd\nEdit scenario_NEWNAME.qmd (editing instructions)\nPush or put in a pull request to repo\nYou will see the file now included at URL\n\n\n\n2.1.2 Editing the scenario.qmd files\nThe files for this book are written in Quarto. .qmd files are like R Markdown files. You can edit them in any text editor, or in the RStudio IDE.\nInstructions on how to work with Quarto books locally is here: https://quarto.org/docs/books/"
+  },
+  {
+    "objectID": "scenarios/scenario_example.html#feedback-scenario-1",
+    "href": "scenarios/scenario_example.html#feedback-scenario-1",
+    "title": "Example Scenario",
+    "section": "Feedback: Scenario 1",
+    "text": "Feedback: Scenario 1\n\nSkill\nThe skill being practiced is giving feedback.\n\n\nFormat\n2 person\n\n\nDirections\nIn this scenario one person will be the one giving the feedback and the other will be the one receiving the feedback. Both people should read the scenario.\n\n\nTime\nSpend 3 minutes giving the feedback and responding, 2 minutes discussing.\n\n\nThings to remember\nRemember: You want to provide feedback, so that the student is aware of the issues and can work with you on finding solutions. You don’t want to provide solutions for the student.\n\n\nScenario\nPerson 1: You are a professor leading a lab of 3 students and 2 postdocs. A third year student in the lab has been been working on a project for awhile and not making progress. The student is frustrated with their lack of progress, and you have to report out on the findings from this grant in 6 months in order to continue receiving funding. In your regular meetings with your student you notice that they keep using the same approaches and seem reluctant to try new approaches.\nPerson 2: You are a third year graduate student. You’ve been working on a project for awhile and are frustrated you’re not making progress. You are embarrassed though that you haven’t made more progress and don’t want to look bad to your professor or lab mates, but don’t know what to do to change things.\n\n\nReflection questions\nPerson 2: How did that feedback feel to you?\nPerson 1: How did giving the feedback feel to you? Anything you would have done differently?"
+  },
+  {
+    "objectID": "scenarios/scenario_template.html",
+    "href": "scenarios/scenario_template.html",
+    "title": "Scenario Template",
+    "section": "",
+    "text": "This is an example scenario. To create a new scenario, copy this file to a new file in this same directory ‘scenarios/’ then fill in your own content in the different sections."
+  },
+  {
+    "objectID": "scenarios/scenario_template.html#feedback-scenario-1",
+    "href": "scenarios/scenario_template.html#feedback-scenario-1",
+    "title": "Scenario Template",
+    "section": "Feedback: Scenario 1",
+    "text": "Feedback: Scenario 1\n\nSkill\nThe skill being practiced is giving feedback.\n\n\nFormat\n2 person\n\n\nDirections\nIn this scenario one person will be the one giving the feedback and the other will be the one receiving the feedback. Both people should read the scenario.\n\n\nTime\nSpend 3 minutes giving the feedback and responding, 2 minutes discussing.\n\n\nThings to remember\nRemember: You want to provide feedback, so that the student is aware of the issues and can work with you on finding solutions. You don’t want to provide solutions for the student.\n\n\nScenario\nPerson 1: You are a professor leading a lab of 3 students and 2 postdocs. A third year student in the lab has been been working on a project for awhile and not making progress. The student is frustrated with their lack of progress, and you have to report out on the findings from this grant in 6 months in order to continue receiving funding. In your regular meetings with your student you notice that they keep using the same approaches and seem reluctant to try new approaches.\nPerson 2: You are a third year graduate student. You’ve been working on a project for awhile and are frustrated you’re not making progress. You are embarrassed though that you haven’t made more progress and don’t want to look bad to your professor or lab mates, but don’t know what to do to change things.\n\n\nReflection questions\nPerson 2: How did that feedback feel to you? Person 1: How did giving the feedback feel to you? Anything you would have done differently?\n\n\nCreating a new scenario\nTo create a new scenario\n\nClone repo\nCopy the file scenario_example.qmd to scenario_NEWNAME.qmd\nEdit scenario_NEWNAME.qmd (editing instructions)\nPush or put in a pull request to repo\nYou will see the file now included at URL\n\n\n\nEditing the scenario.qmd files\nThe files for this book are written in Quarto. .qmd files are like R Markdown files. You can edit them in any text editor, or in the RStudio IDE.\nInstructions on how to work with Quarto books locally is here: https://quarto.org/docs/books/"
+  },
+  {
+    "objectID": "scenarios/scenario_template.html#title-of-scenario",
+    "href": "scenarios/scenario_template.html#title-of-scenario",
+    "title": "Scenario Template",
+    "section": "Title of Scenario",
+    "text": "Title of Scenario\n\nSkill\nWhat skill are you practicing?\n\n\nFormat\nIs this an individual, paired or group exercise?\n\n\nDirections\nAre there any particular directins?\n\n\nTime\nHow much time should participants spend on this exercise? How much on the scenario and how much on the reflection questions?\n\n\nThings to remember\nAre there quick tip things to remember from the lesson in this scenario?\n\n\nScenario\nWrite the story of the scenario. It may just be for one person, or you may write ‘parts’ for 2 or more people.\nPerson 1:\nPerson 2:\n\n\nReflection questions\nWhat questions might you ask yourself or others after the scenario?"
+  }
+]

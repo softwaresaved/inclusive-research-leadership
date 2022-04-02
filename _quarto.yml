@@ -1,0 +1,26 @@
+project:
+  type: book
+
+book:
+  title: "Inclusive Research Leadership"
+  author: "Neil Chue Hong, Tracy Teal"
+  date: "4/2/2022"
+  chapters:
+    - index.qmd
+    - intro.qmd
+    - part: scenarios.qmd
+      chapters:
+        - scenarios/scenario_template.qmd
+        - scenarios/scenario_example.qmd
+    - part: references.qmd
+
+bibliography: references.bib
+
+format:
+  html:
+    theme: cosmo
+  pdf:
+    documentclass: scrreprt
+
+
+
