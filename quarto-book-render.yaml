@@ -33,7 +33,7 @@ jobs:
 
       - name: Deploy 
         # only deploy when pushed to main
-        if: github.event_name != 'pull_request'
+        # if: github.event_name != 'pull_request'
         uses: JamesIves/github-pages-deploy-action@v4
         with:
           # The branch the action should deploy to.
