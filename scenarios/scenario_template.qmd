@@ -3,6 +3,7 @@
 This is template for creating a scenario. To create a new scenario, copy this file to a new file in this same directory 'scenarios/' then fill in your own content in the different sections.
 
 ## Title of Scenario
+What is the title of this scenario?
 
 ### Skill
 What skill are you practicing?
