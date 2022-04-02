@@ -37,6 +37,6 @@ jobs:
         uses: JamesIves/github-pages-deploy-action@v4
         with:
           # The branch the action should deploy to.
-          branch: main
+          branch: gh-pages
           # The folder the action should deploy. Adapt if you changed in Quarto config
           folder: docs
