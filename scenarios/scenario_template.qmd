@@ -11,7 +11,7 @@ What skill are you practicing?
 Is this an individual, paired or group exercise?
 
 ### Directions
-Are there any particular directions?
+Are there any particular directions for this exercise?
 
 
 ### Time
