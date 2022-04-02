@@ -1,6 +1,6 @@
 # Preface {.unnumbered}
 
-These are materials that could be used in an inclusive research leadership workshop. Currently under development.
+These are materials that could be used in an inclusive research leadership workshop. These are currently under development.
 
 This content is written in Quarto. To learn more about Quarto books visit <https://quarto.org/docs/books>.
 
