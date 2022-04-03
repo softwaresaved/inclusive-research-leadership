@@ -1,0 +1,45 @@
+# Scenarios
+
+For a leadership workshop, the excercises are scenarios, where people can practice going through them, either reading and responding themselves, or practicing with a partner. 
+
+We'd like to develop scenarios that give workshop participants the chance to practice the things they have just learned in a module. For example, for the 'Giving and receiving feedback' module, you would want practice scenarios where you could practice giving feedback to someone and practice receiving difficult feedback. 
+
+Like any skill, only practice helps you get better! These scenarios in a workshop setting give you the space for that practice. 
+
+## Scenario format
+
+Each scenario has its own page. This is an example. 
+
+For each scenario include:
+
+**Skill**: List the skill being practiced  
+**Format**: Is this an individual, paired or group exercise  
+**Directions**: Are there any particular directions?  
+**Time:**: How much time should participants spend on this exercise? How much on the scenario and how much on the reflection questions?  
+**Scenario**: The story of the scenario  
+**Reflection questions**: What questions might you ask yourself or others after the scenario?
+
+
+### Creating a new scenario
+
+To create a new scenario
+
+* Clone repo
+* Copy the file scenario_example.qmd to scenario_NEWNAME.qmd
+* Edit scenario_NEWNAME.qmd (editing instructions)
+* Add the name of the new file to _quarto.yml
+* Push or put in a pull request to repo
+* You will see the file now included at URL
+
+### Editing the scenario.qmd files
+
+The files for this book are written in [Quarto](https://quarto.org/). .qmd files are like R Markdown files. You can edit them in any text editor, or in the RStudio IDE. 
+
+Instructions on how to work with Quarto books locally is here:
+[https://quarto.org/docs/books/](https://quarto.org/docs/books/)
+
+
+
+
+
+
