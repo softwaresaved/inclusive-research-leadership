@@ -3,24 +3,23 @@
 This is template for creating a scenario. To create a new scenario, copy this file to a new file in this same directory 'scenarios/' then fill in your own content in the different sections.
 
 ## Overcoming barriers to engagement in a hybrid team
-Some members of the team are struggling to engage with the hybrid nature of the team
 
-### Parameters
-Relevant aspects of the problem that has to be considered before designing a solution:
-- team size
-- team composition (location, personalities)
-- "outside-work considerations" (is there some non-work-related problem impacting people's engagement?)
-- is the engagement a long standing problem / did it change during the transition to hybrid / is it consistently lacking from someone?  
-- remote/office preferences proportion
-- accessibility/inclusivity of the team 
-    - how prompt is the team in providing relevant information? 
-- structure and activity of communication channels
-    - how do you ensure that people have the space/technology to have private conversations?
-    - languages issues? 
-- working hours expectations/possibilities
-- workload expectations/possibilities (family committments, caring commitments, etc.)
-- your leader definition of engagement (have you as a leader explicitley express the expectations?)
-To be customised to "make your own scenario".
+### Scenario parameters
+
+These are considerations that the facilitator / implementor needs to understand when posing a scenario.
+
+* How many people are already in the (established) team?
+* What is the team composition? (e.g. location, personalities)
+* What are the hybrid working patterns of the team members? (E.g. which people mainly work from home or a centralised office? Do people have different individual hybrid working patterns?)
+* What are the career levels of team members and associated technical experience? 
+* Does the organisation have policy or guidance on hybrid working?
+* Is the person a permanent or temporary addition to the team?
+* How does the team maintain contact with each other (e.g. which technology is used, can people have private conversations remotely)? 
+* Are there barriers to communication (e.g. language, technology, cultural)?
+* Does the organisation provide flexible working arrangements (i.e. family committments, religious observance, caring responsibilities)?
+* Are there accessibility requirements to consider? 
+* Are there mental health requirements to consider (e.g anxiety about returning to the office, other non-work related problems)?
+* What are the workloads of your team members? 
 
 ### Skill
 What skill are you practicing?
@@ -32,16 +31,15 @@ What skill are you practicing?
 
 ### Mini-scenarios
 Situations when the problem is approached / "scenes" in the story
-1. Define what engagement is. Communicate that to an hybrid team.
-    - duty of care
-    - awareness of organisational policies / contract types
-3. How do you assess if people is accepting/respecting the rules? If so, when did you realise that the engagement was lacking?
+1. Define what engagement levels you would like in your team. Communicate that to an hybrid team.
+    - are you aware of your duty of care as a leader?
+    - are you awaree of organisational policies / contract types etc?
+2. How do you assess if people are accepting/respecting your expectations? When did you realise that the engagement was lacking?
     - A member of the team has repetedly missed team meetings (related to the problem of how do you measure engagement)
     - Are tasks equally distributed?
-1. How do you initiate a conversation when something is flagged?
-    - Who has raised a concern? (Use your knowing-the-team information) 
-1. How do you create a culture where people can come to you and share problems? 
-
+3. How do you initiate a conversation when something is raised?
+    - Who has raised a concern? (individual, team member, you, your management) 
+4. How might you follow up on the initial conversation?
 
 
 ### Format
@@ -68,4 +66,5 @@ Person 2:
 ### Reflection questions
 
 What questions might you ask yourself or others after the scenario?
-- How do you create a culture where people can come to you and share problems? 
+
+* How do you create a culture where people can come to you and share problems? 
