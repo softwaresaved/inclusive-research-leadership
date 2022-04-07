@@ -1,0 +1,35 @@
+# Scenario Template {.unnumbered}
+
+This is template for creating a scenario. To create a new scenario, copy this file to a new file in this same directory 'scenarios/' then fill in your own content in the different sections.
+
+## New Start
+Welcoming a new start into an existing team engaging in hybrid working.
+
+### Skill
+What skill are you practicing?
+
+### Format
+Is this an individual, paired or group exercise?
+
+### Directions
+Are there any particular directions for this exercise?
+
+
+### Time
+How much time should participants spend on this exercise? How much on the scenario and how much on the reflection questions?  
+
+### Things to remember
+Are there quick tip things to remember from the lesson in this scenario?
+
+### Scenario
+Write the story of the scenario. It may just be for one person, or you may write 'parts' for 2 or more people. 
+
+Person 1: 
+
+Person 2:
+
+
+### Reflection questions
+
+What questions might you ask yourself or others after the scenario?
+
