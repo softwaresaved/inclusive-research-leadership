@@ -24,8 +24,8 @@ Materials available at: [https://bejewelled-semifreddo-e8123a.netlify.app/](http
 - Submit a new scenario you'd like to see as an issue
 
 :computer: **I see the potential... I can work on this for #opensourcefriday**
-- Use the 
-- Create your own vignette!
+- Help us make the publishing workflow smoother
+- Contribute a scenario
 
 :tada: **It's my life's mission to make leadership more inclusive**
 - Speak to us to become a coach / facilitator
