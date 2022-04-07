@@ -1,4 +1,4 @@
-# Scenario Template {.unnumbered}
+# Engagement with hybrid workers {.unnumbered}
 
 This is template for creating a scenario. To create a new scenario, copy this file to a new file in this same directory 'scenarios/' then fill in your own content in the different sections.
 
