@@ -59,7 +59,7 @@ window.document.addEventListener("DOMContentLoaded", function (_event) {
 
   const sections = tocLinks.map((link) => {
     const target = link.getAttribute("data-scroll-target");
-    return window.document.querySelector(`${target}`);
+    return window.document.querySelector(decodeURI(`${target}`));
   });
 
   const sectionMargin = 200;
@@ -368,6 +368,8 @@ window.document.addEventListener("DOMContentLoaded", function (_event) {
         offsetTopPadding = offsetEl.style.paddingTop;
       }
       const rect = offsetEl.getBoundingClientRect();
+      // subtract any headroom offiset, if present
+      const headerEl = window.document.querySelector("header.fixed-top");
       const position = Math.max(rect.height, 0);
 
       const floating = window.document.querySelector("body.floating");
@@ -590,9 +592,7 @@ window.document.addEventListener("DOMContentLoaded", function (_event) {
   window.addEventListener(
     "resize",
     throttle(() => {
-      if (tocEl) {
-        positionSidebars();
-      }
+      positionSidebars();
 
       if (!isReaderMode()) {
         hideOverlappedSidebars();
