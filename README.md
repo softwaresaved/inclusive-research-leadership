@@ -37,7 +37,7 @@ Materials available at: [https://softwaresaved.github.io/inclusive-research-lead
 This project originated from a discussion between Tracy Teal (@tracykteal) and Neil Chue Hong (@npch) about how to improve peer support and mentoring for people who had "found themselves" as leaders. 
 
 It was [introduced in a mini-workshop](https://docs.google.com/document/d/12rMH3q2Wd4SGKiF2k5f1IpWNWC3i_o7vKjRYaFiUlqI/edit#)
-at the Collaborations Workshop 2022, before a hackday team of Dave Horsfall (@davehorsfall), Hannah Williams (@HWilliams-PHE), Iain Barrass (@ibarrass-qmul), Kim Martin, Lisanna Paladin (@Lisanna) and Neil Chue Hong (@npch) developed scenarios around the topic of hybrid working.
+at the Collaborations Workshop 2022, before a hackday team of Dave Horsfall (@davehorsfall), Hannah Williams (@HWilliams-PHE), Iain Barrass (@ibarrass-qmul), Kim Martin (@K-C-Martin), Lisanna Paladin (@Lisanna) and Neil Chue Hong (@npch) developed scenarios around the topic of hybrid working.
 
 
 ## License :ledger:
