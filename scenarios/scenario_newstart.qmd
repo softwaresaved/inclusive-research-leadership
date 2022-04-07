@@ -1,9 +1,71 @@
 # Gaining a new hybrid worker {.unnumbered}
 
-This is template for creating a scenario. To create a new scenario, copy this file to a new file in this same directory 'scenarios/' then fill in your own content in the different sections.
+This is template for creating a scenario. To create a new scenario, copy this
+file to a new file in this same directory 'scenarios/' then fill in your own
+content in the different sections.
 
 ## New Start
 Welcoming a new start into an existing team engaging in hybrid working.
+
+## “Prerequisites” (what might come before)
+Hiring scenario
+
+## “Principles” (what are the learning outcomes?) 
+Onboarding
+* Culture and Process
+* Infrastructure
+* Team building and belonging
+* “Taking temperature level” - what personal lived experience / circumstances
+  might cause challenges with integration with a team
+
+Setting out expectations
+* Visibility / understanding and knowing your team
+* Hard to learn what might be a challenge (less opportunity for
+  casual/intimate conversations)
+* Hard to see when they are struggling (less easy to notice body language
+  cues of anxiety/depression etc)
+
+Psychological safety
+
+What things do you do in person, what do you do in online?
+* Balance between urgency of the “task” and preference for having it in person
+* Take into account practicalities (costs of transport, quality of internet
+  connection)
+
+Protecting your people
+
+Navigating bureacracy
+
+## “Prompts”
+* Travel costs (time and money)
+* Personal circumstances (e.g. childcare challenges) and how to mitigate them 
+
+## Miniscenarios
+3-part breakdown:
+1. creatively-written scenario (context);
+1. explanation/break-down of considerations and relevant principles;
+1. creatively-written conclusion (from the perspective of enlightened/ideal
+   leadership in that context)
+
+### Act 1
+* Explaining team practices (practical onboarding)
+* Getting people setup on infrastructure
+* First meeting with other team members
+* Required courses and training
+* Assigning the right peer mentor for the new member
+* Navigating bureaucracy
+
+### Act 2
+* Managing overwhelm
+* Checking in with the team member
+* Helping form relationships with other team members
+* Probation / progress-report meetings
+* Hitting a personal challenge
+* Assigning the right peer mentor for the new member
+* Probation / progress-report meetings
+
+
+
 
 ### Skill
 What skill are you practicing?
@@ -33,3 +95,44 @@ Person 2:
 
 What questions might you ask yourself or others after the scenario?
 
+## Onboarding
+### Practicalities
+
+It is $NewHire’s first day on the job, and they will be working remotely for
+the first few days. They need to be onboarded in the practical ways the team
+works and is managed: the practical details of using the digital platform
+(which they are as-yet unfamiliar with), and also the less-documented aspects
+of your team’s workflows. They are (predictably) nervous about making a good
+first impression and being seen as a ‘quick learner’, which comes across as a
+slight brittleness/stiffness and/or faux-cheer in online meetings. How do you
+proceed?
+
+Principles:
+* Psychological safety
+* Establishing accountability
+* Supporting growth
+
+## Introducing to team
+###Belonging
+
+$NewHire has the basics of how to use the digital platform where your team
+coordinates about work etc. Your team knows there is a new person joining, but
+(most) have yet to meet them in person or online. You may have some idea of
+who in your team is likely to be the most welcoming/inclusive/encouraging of
+a new person, and/or some intuition as to who they would most likely feel a
+commonality with, but you do need them to be a part of the broader team (which
+already has a good dynamic, and close ties). How do you proceed?
+
+Principles:
+* Team-building / belonging
+* Psychological safety
+
+## Getting to know people
+One-one… understand their context
+
+Principles:
+* Psychological safety
+
+## Managing overwhelm
+The first few weeks can be tough, navigating new
+expectations/team/environment/work
