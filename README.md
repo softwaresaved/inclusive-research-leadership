@@ -12,7 +12,9 @@ This project has come about from a realisation that many people with leadership 
 
 ## Contributing :pencil2:
 
-**Inclusive Research Leadership is a collaborative project** and we welcome suggestions and contributions. We provide additional techical details in the [TECHNICAL_DETAILS.md](TECHNICAL_DETAILS.md) file which explains how we use Quarto to build the documentation. We hope one of the invitations below works for you, but if not, please let us know!
+**Inclusive Research Leadership is a collaborative project** and we welcome suggestions and contributions. We use [Quarto](https://quarto.org/) to build the materials and [render on GitHub Pages](https://quarto.org/docs/websites/publishing-websites.html). We hope one of the invitations below works for you, but if not, please let us know!
+
+Materials available at: [https://softwaresaved.github.io/inclusive-research-leadership/](https://softwaresaved.github.io/inclusive-research-leadership/)
 
 :running: **I'm busy, I only have 1 minute**
 - Tell your colleagues about us
@@ -30,7 +32,6 @@ This project has come about from a realisation that many people with leadership 
 - Organise a hackday to build a new scenario
 - Keep Eventure updated with the latest resources/research 
 
-Materials available at: [https://softwaresaved.github.io/inclusive-research-leadership/](https://softwaresaved.github.io/inclusive-research-leadership/)
 
 ## Acknowledgements :family:
 
