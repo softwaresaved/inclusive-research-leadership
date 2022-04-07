@@ -12,25 +12,25 @@ Hiring scenario
 
 ## “Principles” (what are the learning outcomes?) 
 Onboarding
-* Culture and Process
-* Infrastructure
-* Team building and belonging
-* “Taking temperature level” - what personal lived experience / circumstances
+  * Culture and Process
+  * Infrastructure
+  * Team building and belonging
+  * “Taking temperature level” - what personal lived experience / circumstances
   might cause challenges with integration with a team
 
 Setting out expectations
-* Visibility / understanding and knowing your team
-* Hard to learn what might be a challenge (less opportunity for
-  casual/intimate conversations)
-* Hard to see when they are struggling (less easy to notice body language
-  cues of anxiety/depression etc)
+  * Visibility / understanding and knowing your team
+  * Hard to learn what might be a challenge (less opportunity for
+    casual/intimate conversations)
+  * Hard to see when they are struggling (less easy to notice body language
+    cues of anxiety/depression etc)
 
 Psychological safety
 
 What things do you do in person, what do you do in online?
-* Balance between urgency of the “task” and preference for having it in person
-* Take into account practicalities (costs of transport, quality of internet
-  connection)
+  * Balance between urgency of the “task” and preference for having it in person
+  * Take into account practicalities (costs of transport, quality of internet
+    connection)
 
 Protecting your people
 
@@ -42,10 +42,10 @@ Navigating bureacracy
 
 ## Miniscenarios
 3-part breakdown:
-1. creatively-written scenario (context);
-1. explanation/break-down of considerations and relevant principles;
-1. creatively-written conclusion (from the perspective of enlightened/ideal
-   leadership in that context)
+  1. creatively-written scenario (context);
+  1. explanation/break-down of considerations and relevant principles;
+  1. creatively-written conclusion (from the perspective of enlightened/ideal
+     leadership in that context)
 
 ### Act 1
 * Explaining team practices (practical onboarding)
@@ -84,7 +84,7 @@ How much time should participants spend on this exercise? How much on the scenar
 Are there quick tip things to remember from the lesson in this scenario?
 
 ### Scenario
-Write the story of the scenario. It may just be for one person, or you may write 'parts' for 2 or more people. 
+Write the story of the scenario. It may just be for one person, or you maywrite 'parts' for 2 or more people. 
 
 Person 1: 
 
@@ -108,9 +108,9 @@ slight brittleness/stiffness and/or faux-cheer in online meetings. How do you
 proceed?
 
 Principles:
-* Psychological safety
-* Establishing accountability
-* Supporting growth
+  * Psychological safety
+  * Establishing accountability
+  * Supporting growth
 
 ## Introducing to team
 ###Belonging
@@ -124,14 +124,14 @@ commonality with, but you do need them to be a part of the broader team (which
 already has a good dynamic, and close ties). How do you proceed?
 
 Principles:
-* Team-building / belonging
-* Psychological safety
+  * Team-building / belonging
+  * Psychological safety
 
 ## Getting to know people
 One-one… understand their context
 
 Principles:
-* Psychological safety
+  * Psychological safety
 
 ## Managing overwhelm
 The first few weeks can be tough, navigating new
