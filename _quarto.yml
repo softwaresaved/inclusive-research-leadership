@@ -11,6 +11,7 @@ book:
     - intro.qmd
     - part: scenarios.qmd
       chapters:
+        - scenarios/scenario_engagement.qmd
         - scenarios/scenario_template.qmd
         - scenarios/scenario_example.qmd
     - part: references.qmd
