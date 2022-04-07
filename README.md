@@ -7,7 +7,7 @@ This is the start of a set of content for an inclusive research leadership works
 
 This is being developed as a Quarto book. 
 
-Materials available at: [https://softwaresaved.github.io/inclusive-research-leadership/](https://tracykteal.github.io/inclusive-research-leadership/)
+Materials available at: [https://softwaresaved.github.io/inclusive-research-leadership/](https://softwaresaved.github.io/inclusive-research-leadership/)
 
 
 
