@@ -13,6 +13,7 @@ book:
       chapters:
         - scenarios/scenario_template.qmd
         - scenarios/scenario_example.qmd
+        - scenarios/scenario_engagement.qmd
     - part: references.qmd
 
 bibliography: references.bib
