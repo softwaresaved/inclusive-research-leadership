@@ -2,13 +2,13 @@
 
 This is a repository to develop a set of content to support inclusive research leadership. 
 
-
-
 ## Are you... :dog:
  
 - new to leadership? 
 - looking to become a leader in the future?
 - unsure of the difference between leadership and management?
+
+This project has come about from a realisation that many people with leadership roles in research and research software engineering have "evolved" into their roles, and many training courses do not address the key challenges of this field. There is also a lack of resources on how to be an inclusive leader, dealing with challenges including psychological safety and supporting diverse teams.
 
 ## Contributing :pencil2:
 
